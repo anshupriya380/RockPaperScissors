@@ -74,5 +74,5 @@ restartButton.addEventListener("click", function() {
   updateScore();
   p1.innerHTML = "";
   p2.innerHTML = "";
-  seven.innerHTML = "Who wins??????";
+  seven.innerHTML = "Start Again!!";
 });

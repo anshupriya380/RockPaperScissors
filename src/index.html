@@ -4,35 +4,37 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="./output.css" rel="stylesheet">
- 
 </head>
 <body class="bg-slate-950" >
 
-    <h1 class="text-4xl text-lime-500 italic underline mb-20 mt-10 text-center">ROCK PAPER SCISSORS GAME</h1>
-    <div class="grid grid-flow-col" >
-        <div class="border-r-2 border-red-600">
-            <h1 class=" text-blue-800 text-2xl text-center"> Computer </h1>
-            <div class="flex gap-6  mt-8 justify-center">
-            <img id="one" class="rounded-full size-24 " src="./image/rock.png">
-            <img id="two" class="rounded-full size-24" src="./image/paper.png">
-            <img id="three" class="rounded-full size-24" src="./image/scissors.png">
-            </div>
-            <p id="p1" class="text-orange-500 text-2xl text-center mt-8"></p>
-        </div>
-        <div>
-            <h1 class=" text-blue-800 text-2xl text-center"> You </h1>
-            <div class="flex gap-6  mt-8 justify-center ">
-            <img id="four" class="rounded-full size-24 animate-none " src="./image/rock.png">
-            <img id="five" class="rounded-full size-24 " src="./image/paper.png">
-            <img id="six" class="rounded-full size-24  " src="./image/scissors.png">
-            </div> 
-            <p id="p2" class="text-orange-500 text-2xl text-center mt-8" ></p> 
-        </div>
+  <h1 class="text-4xl text-lime-500 italic underline mb-20 mt-10 text-center">ROCK PAPER SCISSORS GAME</h1>
+  <div class="grid grid-flow-col">
+    <div class="border-r-2 border-red-600">
+      <h1 class="text-blue-800 text-2xl text-center">Computer</h1>
+      <div class="flex gap-6 mt-8 justify-center">
+        <img id="one" class="rounded-full size-24" src="./image/rock.png">
+        <img id="two" class="rounded-full size-24" src="./image/paper.png">
+        <img id="three" class="rounded-full size-24" src="./image/scissors.png">
+      </div>
+      <p id="p1" class="text-orange-500 text-2xl text-center mt-8"></p>
+      <p id="computer-score" class="text-white text-2xl text-center mt-4">Score: 0</p>
     </div>
-    
-    
-    <h1 id="seven" class="text-center mt-11 text-red-400 text-4xl ">Who wins??????</h1>
-    <script src="script.js"></script>
+    <div>
+      <h1 class="text-blue-800 text-2xl text-center">You</h1>
+      <div class="flex gap-6 mt-8 justify-center">
+        <img id="four" class="rounded-full size-24 animate-none" src="./image/rock.png">
+        <img id="five" class="rounded-full size-24" src="./image/paper.png">
+        <img id="six" class="rounded-full size-24" src="./image/scissors.png">
+      </div> 
+      <p id="p2" class="text-orange-500 text-2xl text-center mt-8"></p> 
+      <p id="player-score" class="text-white text-2xl text-center mt-4">Score: 0</p>
+    </div>
+  </div>
+
+  <h1 id="seven" class="text-center mt-11 text-red-400 text-4xl">Lets start the match!!</h1>
+  <button id="restart" class="mt-10 bg-lime-500 text-white text-2xl py-2 px-4 rounded-full block mx-auto">Restart</button>
+
+  <script src="script.js"></script>
 
 </body>
 </html>

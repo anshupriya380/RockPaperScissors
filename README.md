@@ -33,8 +33,8 @@ This project is a Rock Paper Scissors game implemented using Tailwind CSS and Ja
 
 ## Screenshots
 
-(https://github.com/anshupriya380/RockPaperScissors/assets/145607444/60f687db-a9ca-4839-be7b-dd5d80d9a112)
-)
+![Screenshot 2024-06-20 162358](https://github.com/anshupriya380/RockPaperScissors/assets/145607444/cb65d32a-89c6-4ecc-a7b5-28cd90fbd065)
+
 
 
 ## Getting Started
@@ -45,14 +45,6 @@ To get a local copy up and running follow these simple steps:
 2. Open index.html in your web browser
 3. Start playing the game!
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## Credits
-
-- **Your Name**: Developer
-- **Obii Kriationz**: Project Inspiration
-- **Milan Parmar**: Guidance and Support
 
 

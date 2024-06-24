@@ -33,7 +33,7 @@ This project is a Rock Paper Scissors game implemented using Tailwind CSS and Ja
 
 ## Screenshots
 
-![Screenshot](![Screenshot 2024-06-20 162358](https://github.com/anshupriya380/RockPaperScissors/assets/145607444/60f687db-a9ca-4839-be7b-dd5d80d9a112)
+(https://github.com/anshupriya380/RockPaperScissors/assets/145607444/60f687db-a9ca-4839-be7b-dd5d80d9a112)
 )
 
 

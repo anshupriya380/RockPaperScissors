@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-![Game Preview]([link_to_game_preview_image](https://rock-paper-scissors-eight-silk.vercel.app/))
+![Game Preview](https://rock-paper-scissors-eight-silk.vercel.app/)
 
 ## Overview
 
@@ -29,7 +29,7 @@ This project is a Rock Paper Scissors game implemented using Tailwind CSS and Ja
 
 ## Demo
 
-[Link to Live Demo]((https://rock-paper-scissors-eight-silk.vercel.app/))
+[Link to Live Demo](https://rock-paper-scissors-eight-silk.vercel.app/)
 
 ## Screenshots
 
